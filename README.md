@@ -1,1 +1,1 @@
-# ra-ws
+# Rechnerarchitektur Workshop
